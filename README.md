@@ -1,0 +1,1 @@
+# whatsapp-n8n-bridge
